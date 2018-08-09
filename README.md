@@ -1,0 +1,2 @@
+# my.netCore
+for learning
